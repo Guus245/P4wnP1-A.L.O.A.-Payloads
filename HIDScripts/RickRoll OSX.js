@@ -3,7 +3,7 @@
 
 layout("us");
 delay(500)
-press("WIN SPACE") 
+press("GUI SPACE") 
 delay(500) 
 type("https://www.youtube.com/watch?v=dQw4w9WgXcQ\n")
 delay(500)
